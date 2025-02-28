@@ -5,4 +5,4 @@ logs
 *.cache
 build
 .idea
-database.sqlite
+.env
